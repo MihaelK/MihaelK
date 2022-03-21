@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MihaelK
-- 👀 I’m interested in Unity, Blender, Python and many other things.
-- 🌱 I’m currently learning Unity and c#
+- 👀 I’m interested in C++, Python and many other things.
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me: mihikardum@outlook.com
 
 <!---
